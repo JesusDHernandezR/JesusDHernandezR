@@ -1,4 +1,4 @@
-# <img src="./images/sticker.png" width=10% align=right /> Hola! Mi nombre es David
+# Hola! Mi nombre es David
 
 **Ingeniero profesional en sistemas** 💻 
 
