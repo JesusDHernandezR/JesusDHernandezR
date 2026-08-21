@@ -2,7 +2,7 @@
 
 **Ingeniero profesional en sistemas** 💻 
 
-<a href="https://misitio.jd.com" target="_blank"><img src="" 
+<a href="" target="_blank"><img src="" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
@@ -14,7 +14,7 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernandez.rodriguez.j.d@gmail.com)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://misitio.jd.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://404.404.com.co)
 
 
 ## Despliegues
