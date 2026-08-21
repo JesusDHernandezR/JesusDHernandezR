@@ -2,7 +2,7 @@
 
 **Ingeniero profesional en sistemas** 💻 
 
-<a href="" target="_blank"><img src="" 
+<a href="" target="_blank"><img src="https://res.cloudinary.com/ot7xplsq/image/upload/v1787282798/QVbx-1PH5_1200x0__1_vtotsy.jpg" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
